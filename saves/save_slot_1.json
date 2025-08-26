@@ -1,0 +1,170 @@
+{
+    "player": {
+        "name": "Lost Soul",
+        "position": [
+            1,
+            0
+        ],
+        "hope": 75,
+        "strength": 17,
+        "clarity": 9,
+        "burden": 6,
+        "inventory": [],
+        "memories": [
+            {
+                "text": "You connected with someone. \"Right now, you're surviving,\" they observe.",
+                "hope_gained": 5,
+                "timestamp": "2025-08-27T00:39:05.723134"
+            },
+            {
+                "text": "You connected with someone. \"No one really talks about how physical depression is,\"\n                    they observe.",
+                "hope_gained": 5,
+                "timestamp": "2025-08-27T00:39:46.929788"
+            },
+            {
+                "text": "A moment when you surprised yourself with your own strength.",
+                "hope_gained": 2,
+                "timestamp": "2025-08-27T00:39:59.648160"
+            },
+            {
+                "text": "You faced and overcame The Storm of Tomorrow.",
+                "hope_gained": 10,
+                "timestamp": "2025-08-27T00:41:34.927990"
+            },
+            {
+                "text": "You faced and overcame The Shadow of Regret.",
+                "hope_gained": 12,
+                "timestamp": "2025-08-27T00:43:28.861058"
+            },
+            {
+                "text": "You connected with someone. \"Remember when we.",
+                "hope_gained": 10,
+                "timestamp": "2025-08-27T00:44:00.567856"
+            },
+            {
+                "text": "A hand reaching out to help you up. You can't remember whose.",
+                "hope_gained": 2,
+                "timestamp": "2025-08-27T00:44:37.546478"
+            },
+            {
+                "text": "You connected with someone. \"I still have bad days,\" they admit.",
+                "hope_gained": 7,
+                "timestamp": "2025-08-27T00:45:04.853790"
+            },
+            {
+                "text": "You faced and overcame The Measure of Perfection.",
+                "hope_gained": 15,
+                "timestamp": "2025-08-27T00:46:57.949631"
+            },
+            {
+                "text": "You connected with someone. \"I've been thinking about what you said last time,\" they tell you.",
+                "hope_gained": 12,
+                "timestamp": "2025-08-27T00:48:17.295111"
+            },
+            {
+                "text": "You faced and overcame The Storm of Tomorrow.",
+                "hope_gained": 15,
+                "timestamp": "2025-08-27T00:49:48.759726"
+            },
+            {
+                "text": "A hand reaching out to help you up. You can't remember whose.",
+                "hope_gained": 2,
+                "timestamp": "2025-08-27T00:49:59.873239"
+            },
+            {
+                "text": "You faced yourself in the mirror during your realization.",
+                "hope_gained": 8,
+                "timestamp": "2025-08-27T00:50:16.718339"
+            },
+            {
+                "text": "You connected with someone. \"There's this myth,\" they say, \"that healing means going back\n                    to who you were before.",
+                "hope_gained": 9,
+                "timestamp": "2025-08-27T00:50:56.589304"
+            }
+        ]
+    },
+    "world": {
+        "map": [
+            [
+                1,
+                3,
+                1,
+                1,
+                4
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                6,
+                4,
+                1,
+                8
+            ],
+            [
+                4,
+                0,
+                1,
+                0,
+                3
+            ],
+            [
+                5,
+                1,
+                4,
+                7,
+                1
+            ]
+        ]
+    },
+    "game_phase": "growth",
+    "move_history": [
+        [
+            1,
+            4
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            3,
+            4
+        ],
+        [
+            4,
+            4
+        ],
+        [
+            4,
+            3
+        ],
+        [
+            4,
+            2
+        ],
+        [
+            4,
+            1
+        ],
+        [
+            4,
+            0
+        ],
+        [
+            3,
+            0
+        ],
+        [
+            2,
+            0
+        ]
+    ],
+    "demons_faced": 4,
+    "items_collected": 4
+}

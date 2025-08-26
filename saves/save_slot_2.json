@@ -1,0 +1,167 @@
+{
+    "player": {
+        "name": "Lost Soul",
+        "position": [
+            0,
+            2
+        ],
+        "hope": 71,
+        "strength": 7,
+        "clarity": 3,
+        "burden": 69,
+        "inventory": [
+            {
+                "name": "Thread of Connection",
+                "description": "A reminder that you are not, and have never been, truly alone.",
+                "type": "hope",
+                "value": 6,
+                "pickup_message": "Someone, somewhere, cares. The thread proves it."
+            },
+            {
+                "name": "Echo of Laughter",
+                "description": "The ghost of a genuine laugh, yours from better days.",
+                "type": "hope",
+                "value": 8,
+                "pickup_message": "The sound surprises you. When did you last laugh like that?"
+            },
+            {
+                "name": "Thread of Connection",
+                "description": "A reminder that you are not, and have never been, truly alone.",
+                "type": "hope",
+                "value": 6,
+                "pickup_message": "Someone, somewhere, cares. The thread proves it."
+            }
+        ],
+        "memories": [
+            {
+                "text": "You connected with someone. They show you a scar on their arm.",
+                "hope_gained": 4,
+                "timestamp": "2025-08-27T00:16:19.824677"
+            },
+            {
+                "text": "You connected with someone. They don't try to fix you.",
+                "hope_gained": 8,
+                "timestamp": "2025-08-27T00:17:04.944311"
+            },
+            {
+                "text": "You faced and overcame The Voice of Doubt.",
+                "hope_gained": 12,
+                "timestamp": "2025-08-27T00:19:01.192294"
+            },
+            {
+                "text": "A small act of kindness you once showed someone else.",
+                "hope_gained": 2,
+                "timestamp": "2025-08-27T00:19:12.148648"
+            },
+            {
+                "text": "You connected with someone. \"What would you say to a friend who was going through\n                what you're experiencing?\" they ask.",
+                "hope_gained": 5,
+                "timestamp": "2025-08-27T00:19:46.993361"
+            },
+            {
+                "text": "You faced yourself in the mirror during your struggle.",
+                "hope_gained": 7,
+                "timestamp": "2025-08-27T00:20:10.036721"
+            },
+            {
+                "text": "A hand reaching out to help you up. You can't remember whose.",
+                "hope_gained": 2,
+                "timestamp": "2025-08-27T00:20:27.843749"
+            },
+            {
+                "text": "You connected with someone. \"Remember when.",
+                "hope_gained": 8,
+                "timestamp": "2025-08-27T00:20:56.186623"
+            },
+            {
+                "text": "A small act of kindness you once showed someone else.",
+                "hope_gained": 2,
+                "timestamp": "2025-08-27T00:21:29.358827"
+            }
+        ]
+    },
+    "world": {
+        "map": [
+            [
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            [
+                1,
+                0,
+                3,
+                0,
+                1
+            ],
+            [
+                1,
+                8,
+                4,
+                5,
+                1
+            ],
+            [
+                1,
+                0,
+                4,
+                0,
+                4
+            ],
+            [
+                6,
+                1,
+                3,
+                3,
+                7
+            ]
+        ]
+    },
+    "game_phase": "growth",
+    "move_history": [
+        [
+            2,
+            2
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            3,
+            4
+        ],
+        [
+            4,
+            4
+        ],
+        [
+            4,
+            3
+        ],
+        [
+            4,
+            2
+        ],
+        [
+            3,
+            2
+        ],
+        [
+            2,
+            2
+        ],
+        [
+            1,
+            2
+        ]
+    ],
+    "demons_faced": 1,
+    "items_collected": 3
+}
